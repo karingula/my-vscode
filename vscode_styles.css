@@ -15,6 +15,17 @@
   letter-spacing: 1.2px;
 }
 
+.mtk9 {
+  color: crimson;
+  font-size: 1.1em;
+}
+.mtk13 {
+  color: rgb(135, 165, 75);
+  font-size: 1.4em;
+  font-weight: 500;
+  font-style: italic;
+}
+
 .mtk5 {
   color: rgb(76, 187, 76);
   font-size: 1.1em;
