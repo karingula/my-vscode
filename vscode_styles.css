@@ -23,6 +23,13 @@
   color: deepskyblue;
   font-size:  1.1em;
 }
+.mtk12 {
+  color: burlywood;
+  font-size: 1.2em;
+  font-family: 'Gandhi Sans';
+  letter-spacing: 1.3px;
+  font-weight: 300;
+}
 
 .mtk4 {
   font-family: "212 Moon Child Sans";
