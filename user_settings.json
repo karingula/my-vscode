@@ -13,15 +13,27 @@
     "vscode_custom_css.policy": true,
     "workbench.colorCustomizations": {
         "activityBar.background": "#0f253d",
+        "activityBarBadge.background": "#696868",
         "badge.background": "#666d48",
-        "sideBar.background": "#100b25"
+        "sideBar.background": "#100b25",
+        "sideBar.border": "#9ecadb",
+        "editor.background": "#151833a8",
+        "editor.foreground": "#e4f0ec",
+        "editor.selectionBackground": "#afa33583",
+        "editor.selectionHighlightBackground": "#a5a7a84b",
+        "editorLineNumber.activeForeground": "#FFC316",
+        "editor.hoverHighlightBackground": "#fafafa44",
+        "tab.activeBackground": "#3b2f7ac7",
+        "tab.inactiveBackground": "#100b25",
+        "tab.activeBorder": "#d0ff00",
+        "tab.unfocusedActiveBackground": "#ff0000"
     },
     "editor.tokenColorCustomizations": {
         "comments": "#a7aaa5",
         "functions": "#d9ff00",
         "types": "#ff0077",
         "strings": "#8BA9E8",
-        "keywords": "#5EF0BF"
+        "keywords": "#5EF0BF",
     },
     "python.autoUpdateLanguageServer": true,
     "python.autoComplete.addBrackets": true,
