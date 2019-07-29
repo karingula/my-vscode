@@ -1,0 +1,28 @@
+{
+    "editor.fontFamily": "Fira Code iScript",
+    "terminal.integrated.fontFamily": "monospace",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 15,
+    "workbench.colorTheme": "Solarized Dark",
+    "terminal.integrated.fontWeight": "bold",
+    "terminal.integrated.fontWeightBold": "normal",
+    "terminal.integrated.letterSpacing": 2,
+    "terminal.integrated.fontSize": 14,
+    "workbench.iconTheme": "vscode-icons",
+    "vscode_custom_css.imports": ["file:///Users/vijay.karingula/Desktop/vscode_styles.css"],
+    "vscode_custom_css.policy": true,
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#0f253d",
+        "badge.background": "#666d48",
+        "sideBar.background": "#100b25"
+    },
+    "editor.tokenColorCustomizations": {
+        "comments": "#a7aaa5",
+        "functions": "#d9ff00",
+        "types": "#ff0077",
+        "strings": "#8BA9E8",
+        "keywords": "#5EF0BF"
+    },
+    "python.autoUpdateLanguageServer": true,
+    "python.autoComplete.addBrackets": true,
+}
