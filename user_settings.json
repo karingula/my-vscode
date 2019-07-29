@@ -25,8 +25,11 @@
         "editor.hoverHighlightBackground": "#fafafa44",
         "tab.activeBackground": "#3b2f7ac7",
         "tab.inactiveBackground": "#100b25",
-        "tab.activeBorder": "#d0ff00",
-        "editorGroupHeader.tabsBackground": "#0f253d"
+        "editorGroupHeader.tabsBackground": "#0f253d",
+        "tab.activeBorderTop": "#d0ff00",
+        "tab.border": "#9ecadb",
+        "titleBar.activeBackground": "#0f253d",
+        "terminal.background": "#100b25"
     },
     "editor.tokenColorCustomizations": {
         "comments": "#a7aaa5",
