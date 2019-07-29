@@ -1,0 +1,39 @@
+/*
+ I decided on the Brush Script MT cursive font for now. Works better for me than FlottFlott.
+*/
+.mtk3,
+.mtk13,
+.mtk16 {
+  margin-left: 1px;
+  font-family: "Fira Code iScript";
+  font-size: 1em;
+}
+
+.mtk4 {
+  font-family: "212 Moon Child Sans";
+  font-size: 15px;
+  letter-spacing: 2.3px;
+  font-weight: 550;
+}
+
+.mtk8 {
+  font-family: 'Kaushan Script';
+  letter-spacing: 2.5px;
+  font-size: 20px;
+  color: antiquewhite;
+}
+
+/*
+  For the tab titles.
+*/
+.monaco-icon-label-description-container .label-name {
+  font-family: "Fira Code iScript";
+  font-size: 1em;
+}
+
+.tabs-container .monaco-icon-label-description-container .label-name,
+.sidebar .monaco-icon-label-description-container .label-name,
+.quick-open-row .monaco-icon-label-description-container .label-name {
+  font-family: -apple-system,BlinkMacSystemFont,Segoe WPC,Segoe UI,HelveticaNeue-Light,Ubuntu,Droid Sans,sans-serif;
+  font-size: 1em;
+}
