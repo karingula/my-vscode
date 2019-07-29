@@ -29,6 +29,8 @@
         "tab.activeBorderTop": "#d0ff00",
         "tab.border": "#9ecadb",
         "titleBar.activeBackground": "#0f253d",
+        "statusBar.background": "#0f253d",
+        "statusBar.foreground": "#b4ced8",
         "terminal.background": "#100b25",
         "terminal.border": "#9ecadb",
         "terminal.foreground": "#dddbdb"
