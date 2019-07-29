@@ -26,7 +26,7 @@
         "tab.activeBackground": "#3b2f7ac7",
         "tab.inactiveBackground": "#100b25",
         "tab.activeBorder": "#d0ff00",
-        "tab.unfocusedActiveBackground": "#ff0000"
+        "editorGroupHeader.tabsBackground": "#0f253d"
     },
     "editor.tokenColorCustomizations": {
         "comments": "#a7aaa5",
